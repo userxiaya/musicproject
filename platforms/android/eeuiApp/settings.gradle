@@ -1,0 +1,7 @@
+include ':app'
+
+include ":eeui"
+project (':eeui').projectDir = new File("../../../plugins/eeui/framework/android")
+
+include ":eeuiAudio"
+project (":eeuiAudio").projectDir = new File("../../../plugins/eeui/audio/android")

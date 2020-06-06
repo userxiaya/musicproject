@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"eeui/audio": {
+			"requireName": "eeui/audio",
+			"name": "eeui/audio",
+			"url": "http://eeui.cdn.gmjfw.com/uploads/plugins/1/audio/d9cfe3f797b93f7186a2fd347250c783.zip"
+		}
+	}
+}

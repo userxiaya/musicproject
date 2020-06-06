@@ -1,0 +1,8 @@
+{
+	"name": "musicapp",
+	"appName": "musicapp",
+	"applicationID": "app.eeui.demo",
+	"bundleIdentifier": "app.eeui.demo",
+	"release": "2.3.4",
+	"location": "github"
+}
